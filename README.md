@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/abdelhamiderrahmouni/blade-component-scopes/main/art/example.png" width="600" alt="Scopes for Laravel Blade Components">
+    <img src="https://raw.githubusercontent.com/abdelhamiderrahmouni/blade-component-scopes/main/art/example.png" width="600" alt="Blade Component Scopes">
     <p align="center">
         <a href="https://github.com/abdelhamiderrahmouni/blade-component-scopes/actions"><img alt="GitHub Workflow Status (main)" src="https://img.shields.io/github/actions/workflow/status/abdelhamiderrahmouni/blade-component-scopes/tests.yml?branch=main&label=tests&style=round-square"></a>
         <a href="https://packagist.org/packages/abdelhamiderrahmouni/blade-component-scopes"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/abdelhamiderrahmouni/blade-component-scopes"></a>
@@ -10,7 +10,7 @@
 
 ------
 
-# Scopes for Laravel Blade Components 
+# Blade Component Scopes 
 This package allows you to scope attributes to specific elements within your Blade components.
 
 ```php
@@ -20,7 +20,7 @@ This package allows you to scope attributes to specific elements within your Bla
 ## Installation
 > **Requires [php 8.2+](https://www.php.net/downloads.php) and [Laravel 10+](https://github.com/laravel/laravel)**
 
-First, install `Scopes for Laravel Blade Components` via [composer](https://getcomposer.org/):
+First, install `Blade Component Scopes` via [composer](https://getcomposer.org/):
 
 ```bash
 composer require abdelhamiderrahmouni/blade-component-scopes
@@ -103,9 +103,9 @@ public function register(): void
 
 ## Contributing
 
-Thank you for considering contributing to `Scopes for Laravel Blade Components`! The contribution guide can be found in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Thank you for considering contributing to `Blade Component Scopes`! The contribution guide can be found in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ---
-`Scopes for Laravel Blade Components` is an open-sourced software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
+`Blade Component Scopes` is an open-sourced software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
 
 
