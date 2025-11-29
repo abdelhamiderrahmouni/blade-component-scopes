@@ -6,5 +6,4 @@ uses(
     \Illuminate\Foundation\Testing\Concerns\InteractsWithContainer::class,
     \Illuminate\Foundation\Testing\Concerns\InteractsWithViews::class,
     \Tests\TestCase::class,
-)
-    ->in(__DIR__);
+)->in(__DIR__);
